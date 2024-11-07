@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="dancing">
+    <title>How to Dance With a Baby</title>
+    <shortdesc>Babies are fun but they don't know how to dance.  With some hacks, you can make them
+        dance and have a good time.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_nbx_z3t_bdc">
+            <ul id="ul_e5h_1jt_bdc">
+                <li>A baby of decent size</li>
+                <li>Baby-friendly music (they generally like Pantera and Metallica)</li>
+                <li>Diapers</li>
+            </ul>
+        </prereq>
+        <context>You should only dance with babies after they have taken a nap, or they will dance
+            angry.</context>
+        <steps>
+            <step>
+                <cmd>Pick up your baby </cmd>
+                <info>
+                    <note id="note_htt_tjt_bdc" type="caution">Make sure the baby has a clean
+                        diaper!</note>
+                </info>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+            <step>
+                <cmd>Have fun</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
