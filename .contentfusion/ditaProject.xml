@@ -17,7 +17,16 @@
         <context idref="JjUtodsmAAKebeM"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" href="cf://templates/Astatine"/>
+            <param href="cf://templates/Astatine" name="webhelp.publishing.template"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
+    <deliverable id="d-luxury-1730998050644" name="luxury">
+        <?description {"content":"only for rich people"}?>
+        <context idref="BiyEmnRghuekEYQ"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param href="cf://templates/Gallium" name="webhelp.publishing.template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
