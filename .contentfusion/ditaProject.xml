@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="BiyEmnRghuekEYQ" name="luxury">
+        <input href="../vacation-packages.ditamap"/>
+        <profile>
+            <ditaval href="../beyonce.ditaval"/>
+        </profile>
+    </context>
     <context id="JjUtodsmAAKebeM" name="Beyonce">
         <input href="../vacation-packages.ditamap"/>
         <profile>
@@ -11,7 +17,7 @@
         <context idref="JjUtodsmAAKebeM"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param href="cf://templates/Astatine" name="webhelp.publishing.template"/>
+            <param name="webhelp.publishing.template" href="cf://templates/Astatine"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
